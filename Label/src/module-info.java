@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author enricoclemente
+ *
+ */
+module Label {
+}
